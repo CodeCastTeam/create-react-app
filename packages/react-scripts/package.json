@@ -1,10 +1,10 @@
 {
-  "name": "react-scripts",
+  "name": "CodeCastTeam/react-scripts",
   "version": "3.2.0",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Configuration and scripts for Create React App, including Monaco plugin.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/create-react-app.git",
+    "url": "https://github.com/CodeCastTeam/create-react-app.git",
     "directory": "packages/react-scripts"
   },
   "license": "MIT",
@@ -12,7 +12,7 @@
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/CodeCastTeam/create-react-app/issues"
   },
   "files": [
     "bin",
@@ -59,6 +59,7 @@
     "jest-resolve": "24.9.0",
     "jest-watch-typeahead": "0.4.0",
     "mini-css-extract-plugin": "0.8.0",
+    "monaco-editor-webpack-plugin": "^1.5.1",
     "optimize-css-assets-webpack-plugin": "5.0.3",
     "pnp-webpack-plugin": "1.5.0",
     "postcss-flexbugs-fixes": "4.1.0",
